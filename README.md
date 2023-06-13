@@ -9,4 +9,3 @@ In terminal - npm install
 
 then - npm start
 
-It will run on - http://localhost:3000/
